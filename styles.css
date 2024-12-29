@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(58, 184, 206);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: wheat;
+}
+
+li, a {
+    text-align: justify;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: bold;
+}
+
+h2, h3, h4 {
+    color: rgb(120, 139, 74);
+    font-size: 30px;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
